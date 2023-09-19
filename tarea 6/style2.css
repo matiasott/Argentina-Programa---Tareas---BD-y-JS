@@ -1,0 +1,48 @@
+body {
+    background-color: #000000;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+h2,p{
+    color: #686868;
+}
+
+h1, h5 {
+    color: rgb(255, 255, 255); 
+}
+
+.iconoguit{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+
+.botonTipo{
+    color: rgb(0, 0, 0);
+    background-color: #b1b1b1;
+    border: none;
+}
+
+.botonTipoP:hover {
+    background-color: #ffca18; /* Cambia el color de fondo al hacer hover */
+}
+
+.botonTipoA:hover {
+    background-color: #ff1818; /* Cambia el color de fondo al hacer hover */
+}
+
+h5{
+    margin-top: 10%;
+}
+
+
+.divFoco{
+    margin-top: 40px;
+}

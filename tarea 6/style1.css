@@ -1,0 +1,44 @@
+body {
+    background-color: #8713aa;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+h2,p{
+    color: #c4c4c4;
+}
+
+h1, h5 {
+    color: rgb(0, 0, 0); 
+}
+
+.iconoguit{
+    color: black;
+    font-size: 40px;
+}
+
+.botonNombre{
+    color: black;
+    background-color: white;
+    border: black;
+}
+
+.botonNombre:hover{
+    background-color: #320141;
+}
+
+.nombre{
+    color: rgb(170, 9, 9);
+    font-size: 40px;
+    font-weight: bold;   
+}
+
+h5{
+    margin-top: 25%;
+}
